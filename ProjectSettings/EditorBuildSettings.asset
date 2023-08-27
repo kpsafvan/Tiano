@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/START FINAL.unity
+    guid: 199754261bc67b94ca623aa78f96350b
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: a339d04e70f9b794cb51b14f4d0afbad
+  - enabled: 1
+    path: Assets/Scenes/Single/Single.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Double.unity
+    guid: a43db55ae380194449e6eaca9609173e
+  - enabled: 1
+    path: Assets/Scenes/Side D.unity
+    guid: 0abc0aa556479dc44bf6a52e3166633e
+  - enabled: 1
+    path: Assets/Scenes/UPWINS.unity
+    guid: 3c66476846fdccb48b01a4e799ec8952
+  - enabled: 1
+    path: Assets/Scenes/Choice.unity
+    guid: 597689fb038ec634a8f9f9033a6dc149
+  - enabled: 1
+    path: Assets/Scenes/Single/LOSE.unity
+    guid: cc950cb6f12cc844aa3676b43de33840
+  - enabled: 1
+    path: Assets/Scenes/Single/HighScore.unity
+    guid: f498a7ad14e91aa4c8fe622787399764
+  - enabled: 1
+    path: Assets/Scenes/DOWNWINS.unity
+    guid: 5936ae8783915b1458d18015536de6e7
+  m_configObjects: {}
